@@ -1,1 +1,1 @@
-# CRUD_project_python
+# CRUD_project_python_Django
